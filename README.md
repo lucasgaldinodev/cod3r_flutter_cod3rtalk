@@ -1,16 +1,15 @@
-# talk
+# Projeto Cod3r Talk
 
-A new Flutter project.
+Apenas um pequeno projeto feito para mostrar algumas funções mais básicas do Flutter para um dos Talks da Cod3r.
 
-## Getting Started
+## Executando o projeto
 
-This project is a starting point for a Flutter application.
+Se trata de um projeto em Flutter, para executar basta:
+* Baixar o conteúdo do repositório, seja clonando ou via download
+* Em um terminal apontando para a pasta do projeto utilizar o comando "flutter pub get"
+* Executar seu device para testes, como um emulador ou algo similar e usar o comando "flutter run"
+* Ou executar diretamente pelo VCode mesmo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Alguns prints do projeto
+![](https://github.com/lucasgaldinomt/flutter-cod3rtalk/blob/main/screenshots/iOS1.png)
+![](https://github.com/lucasgaldinomt/flutter-cod3rtalk/blob/main/screenshots/iOS2.png)
