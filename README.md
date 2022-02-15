@@ -8,7 +8,7 @@ Se trata de um projeto em Flutter, para executar basta:
 * Baixar o conteúdo do repositório, seja clonando ou via download
 * Em um terminal apontando para a pasta do projeto utilizar o comando "flutter pub get"
 * Executar seu device para testes, como um emulador ou algo similar e usar o comando "flutter run"
-* Ou executar diretamente pelo VCode mesmo
+* Ou executar diretamente pelo Visual Studio Code
 
 ## Alguns prints do projeto
 ![](https://github.com/lucasgaldinomt/flutter-cod3rtalk/blob/main/screenshots/iOS1.png)
