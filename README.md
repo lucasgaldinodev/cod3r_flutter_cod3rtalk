@@ -1,10 +1,10 @@
 # Projeto Cod3r Talk
 
-Apenas um pequeno projeto feito para mostrar algumas funções mais básicas do Flutter para um dos Talks da Cod3r, disponível no canal do YouTube.
+Pequeno projeto feito para mostrar algumas funções mais básicas do Flutter para um dos Talks da Cod3r, conteúdo disponível no canal do YouTube.
 
 ## Executando o projeto
 
-Se trata de um projeto em Flutter, para executar é necessário:
+Trata-se de um projeto em Flutter, para executar é necessário:
 * Ter a linguagem Dart e o Flutter instalados na sua máquina e presentes no path do sistema.
 * Ter um emulador instalado ou um dispositivo físico disponível para testes do projeto.
 * Baixar o conteúdo do repositório, seja clonando ou via download de arquivo zip.
